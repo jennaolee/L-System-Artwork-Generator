@@ -24,7 +24,7 @@ python main.py
 
 ## Results
 ### Example 1
-**Output:** ![Alt text](results/lsystem1.svg) 
+**Output:** ![Alt text](results/lsystem1.svg)<br>
 **Generation Method:**  
 ```bash
  {
@@ -42,7 +42,7 @@ python main.py
 This example demonstrates an organic plant structure with asymmetric branching.
 
 ### Example 2
-**Output:** ![Alt text](results/lsystem2.svg)  
+**Output:** ![Alt text](results/lsystem2.svg)<br>  
 **Generation Method:**  
 ```bash
 {
@@ -58,7 +58,7 @@ This example demonstrates an organic plant structure with asymmetric branching.
 This configuration produces a fuller, bush-like appearance with balanced symmetry.
 
 ### Example 3
-**Output:** ![Alt text](results/lsystem3.svg)   
+**Output:** ![Alt text](results/lsystem3.svg)<br>   
 **Generation Method:**  
 ```bash
 {
@@ -76,7 +76,7 @@ This configuration produces a fuller, bush-like appearance with balanced symmetr
 The result is a fractal-like structure with irregular branching patterns.
 
 ### Example 4
-**Output:** ![Alt text](results/lsystem4.svg)  
+**Output:** ![Alt text](results/lsystem4.svg)<br>  
 **Generation Method:**  
 ```bash
 {
@@ -92,7 +92,7 @@ The result is a fractal-like structure with irregular branching patterns.
 This example produces a structured Koch curve form.
 
 ### Example 5
-**Output:** ![Alt text](results/lsystem5.svg) 
+**Output:** ![Alt text](results/lsystem5.svg)<br> 
 **Generation Method:**  
 ```bash
 {
